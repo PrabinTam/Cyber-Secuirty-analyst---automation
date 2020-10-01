@@ -1,5 +1,8 @@
 # IT-security-automation
 
-The goal of me writing all those script was to automate one our daily task in IT security. 
-Which was to go through the vulnearbilites found by Tenable and then find the owner of the device. 
-And I though to run it against Sophos because it has both user of the machine with IP.
+The goal these scripts was to automate one our daily task in IT security. 
+
+So, what is all these scripts and what does it do:
+  get_sophos_list.py >> The purpose of this scirpt is to go to the Sophos Console and then to get all the devices in a CSV format.
+  get_tenable_vulne_list.py >> The purpose of this script is to get all the vulnerability found on Tenable in a CSV format. 
+  
