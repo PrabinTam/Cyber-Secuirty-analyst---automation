@@ -19,7 +19,7 @@ Python Packages used:
 
 Pr-running the Script what is needed:
     
-    We need to run get_tenable_vuln.py. 
+    We need to run get_tenable_vuln.py only once ever in the machine and that no need to ever.
     Python3 needs to be installed.
     We are using Selenium to crawl the website so need a proper browser driver for it. And for our case, we are using Chrome. 
     
